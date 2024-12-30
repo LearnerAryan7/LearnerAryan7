@@ -38,3 +38,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learneraryan7&" alt="learneraryan7" /></p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
+
+![snake gif](https://github.com/LearnerAryan7/LearnerAryan7/blob/output/github-snake-dark.svg)
+
