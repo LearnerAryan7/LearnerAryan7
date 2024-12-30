@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **learneraryan07@gmail.com**
 
-- ⚡ Fun fact **I am Ambivert**
+- ⚡ Fun fact **I am an Ambivert**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
