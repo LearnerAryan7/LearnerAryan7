@@ -6,6 +6,7 @@
 
 
 
+
 <h3 align="center">A passionate Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
@@ -21,6 +22,9 @@
 
 - ⚡ Fun fact **I am Ambivert**
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aryan." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan." height="30" width="40" /></a>
@@ -32,3 +36,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=learneraryan7&show_icons=true&locale=en&layout=compact" alt="learneraryan7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learneraryan7&" alt="learneraryan7" /></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
